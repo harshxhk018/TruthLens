@@ -1,6 +1,7 @@
 streamlit
-scikit-learn
+scikit-learn==1.6.1
+pandas
 numpy
-scipy
+requests
+python-dotenv
 joblib
-plotly
